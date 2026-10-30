@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/inenoya",
  "yomi": "いねのやちょうかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "長歌集（抄）",
+  "era": "未詳",
+  "author": "日下田足穂",
+  "desc": "日下田足穂の長歌を抄出したもの。「雪消松緑」などの題詠のほか、「自由」という題で、鶯と鴫が心のままに飛ぶことを願う長歌も収める。"
+ },
  "editions": [
   {
    "pid": "993387",
